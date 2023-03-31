@@ -1,4 +1,4 @@
-# README
+# Projet NE302
 
 **** Instructions de compilation:
 Options du Makefile
